@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;nguyenthangJavaWeb/src/main/resources/massage.properties&apos; を &apos;message.properties&apos; に変更します" description="リソース &apos;massage.properties&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/massage.properties" name="message.properties" stamp="1699679470809" updateReferences="true"/>
+</session>
